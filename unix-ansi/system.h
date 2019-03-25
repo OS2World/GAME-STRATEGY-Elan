@@ -1,0 +1,2 @@
+
+#define SYSTEM				"Unix/ANSI"

@@ -1,0 +1,3 @@
+
+#define SYSTEM  "Amiga/ANSI"
+
